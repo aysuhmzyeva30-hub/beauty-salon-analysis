@@ -60,6 +60,30 @@ ADDCOLUMNS (
     "Həftənin Günü", FORMAT([Date], "dddd")
 )
 ```
+## 📊 Business Insights & Data Storytelling
+
+Instead of just visualizing data, this project uncovers the "why" behind the numbers, mapping financial anomalies to seasonal trends, local cultural behaviors, and operational risks.
+
+### 1. Seasonal & Cultural Anomalies 📅
+* **February Deficit (-67 AZN):** The shortest month of the year marked a post-New Year slump and pre-wedding stagnation. While revenue dipped sharply, fixed overheads and high winter utility costs remained constant, pushing the salon into a net loss.
+* **July Wedding Slump (-2 AZN):** Profit hit near-zero due to local cultural factors. The observance of the holy month of Muharram halted all weddings, completely drying up the salon’s highest-margin services (bridal prep, party hair, and makeup).
+* **The March Paradox (+487 AZN Spike):** Despite Ramadan causing an expected slowdown, a massive 3-to-5-day customer rush during International Women's Day (March 8) and the Novruz holiday completely offset the quiet days, leading to a massive profit surge.
+
+### 2. Operational Risks & Costs ⚠️
+* **The "Top 3" Stylist Dependency:** Although the salon has multiple staff members, **60-70% of total revenue** relies solely on three top stylists (Umid, Elmira, and Ismayil). This presents a high operational risk; if one leaves or takes concurrent leave, revenues will drop by half.
+* **Marketing ROI (3.8K AZN):** Social media/SMM marketing is the second largest expense after salaries. The next analytical step is conducting an ROI analysis to correlate ad spending peaks with revenue growth.
+* **Weekend Overbooking Phenomenon:** Weekend revenue is double that of weekdays due to customer work schedules. This causes intense weekend bottlenecks (overbooking) while leaving stylists largely underutilized on weekdays.
+
+---
+
+## 💡 Strategic Recommendations for FY2027
+
+To mitigate seasonal risks and optimize salon operations, the following data-driven strategies are proposed:
+
+1. **De-seasonalize Revenue:** During low periods (February and July), transition marketing focus away from wedding packages toward daily care, advanced cosmetology, and nail-art campaigns.
+2. **Mitigate Dependency Risk:** Stagger vacation schedules for the top three stylists (Umid, Elmira, Ismayil) to ensure at least two are always active.
+3. **Smooth Weekend Demand:** Introduce "Weekday Package Deals" or loyalty discounts from Monday to Wednesday to incentivize budget-conscious clients to book during off-peak hours.
+
 ## 🚀 Roadmap & Next Steps (Feedback Integration)
 
 * **I am continuously improving this project. The upcoming updates will include:**
