@@ -20,7 +20,7 @@ Here is a look at the interactive pages of the Power BI dashboard:
 
 ### Page 1: Stylist Performance Analysis (Usta Performansı Analizi)
 This page focuses on individual stylist performance, analyzing which team members contribute most to salon sales, service delivery, and customer interactions.
-![Dashboard Page 1](image.png)
+![Dashboard Page 1](dashboard_page1.png)
 
 ### Page 2: Time & Trend Analysis (Zaman və Trend Analizi)
 This page provides in-depth insights into financial trends over time, tracking monthly net profit, revenue vs. expenses, weekly performance, and a drill-down decomposition of net profit.
